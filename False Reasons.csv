@@ -1,0 +1,18 @@
+Answers,R1,R2,R3,R4,R5,R6,R7,Reason: 
+4,0,0,0,3,0,0,0,Problem 2 step 1: Did not subtract P(A) and/ or Multiplied P(A) by 10 
+0.4,1,0,0,23,0,1,0,Problem 2 step 1: Did not subtract P(A and B) 0.1
+0.02,0,0,0,0,0,0,4,Problem 8 step 3: rounded up (0.0192) 
+0.04,0,0,1,1,0,0,0,Problem 2 step 1: Multiplied P(A) by P(A and B) instead of subtract
+0.1,0,0,0,0,7,6,1,Problem 2 step 3 & Problem 3 step 3: Subtracted P(Only B) by P(Only A) instead of added  Problem 6 step 2: Multiplied P(red) by P(blue) 
+0.2,0,0,1,0,2,0,3,Problem 7 step 3: Potential rounding error / random
+0.3,0,0,1,1,2,0,0,Problem 2 step 3: Used P(only A) 
+0.6,1,1,1,0,1,0,0,Problem 1: Random (maybe multiplied by 0.1) 
+0.7,0,0,2,0,0,0,3,Problem 1 step 3: divided # of black balls by number of white
+0.8,0,0,0,0,1,0,1,Problem 2 step 3: multiplied P(only X) by P(only Y) 
+0.9,0,0,0,0,4,0,0,Problem 2 step 3: added P(A) and P(B) instead of  P(only A) and P(only B)
+15,0,0,0,1,0,0,0,Problem 3 step 1: forgot to put decimal infront
+2,0,5,0,0,0,0,0,Problem 1 step 2: Subtracte 8 by 6 instead of added  
+25,1,4,0,0,0,0,0,Problem 1 step 2: Random???
+35,1,0,0,0,0,0,0,Random
+40,0,0,0,1,0,0,0,Problem 2 step 2: Multiplied 0.4 by 10 / forgot to divide by 10 when calculating
+6,0,1,0,0,0,0,0,Problem 1 step 1: did not add 8
